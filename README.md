@@ -19,7 +19,7 @@ A modelagem segue os seguintes conceitos principais:
 
 ### **Relacionamentos**
 - **Cliente gera Pedido** (1:N).
-- **Pedido é analisado por Responsável** (N:N).
+- **Pedido é analisado por Responsável** (N:M).
 - **Pedido gera Serviço** (1:N).
 - **Serviço é supervisionado por Responsável** (1:N).
 
