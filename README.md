@@ -79,3 +79,6 @@ CREATE TABLE Pedido (
 ## 🌟 Contribuições
 Sinta-se à vontade para sugerir melhorias ou compartilhar suas ideias!
 
+  <p align="center">
+  Copyright © 2024. Desenvolvido com 🧡 por <a  href="https://lirazootech.vercel.app/">Thays Lira</a>.
+  </p>
